@@ -5,7 +5,7 @@ greens).
 
 Powered by Micro USB or Lithium Ion Battery with switch.
 
-![led candle](candle.jpeg)
+![led candle](assets/candle.jpeg)
 
 ## Components
 - Adafruit Trinket M0
@@ -19,8 +19,8 @@ the unit could comfortably sit on. I used Adafruit protoboard, feeding the
 wiring through to house the battery beneath.
 
 ## Diagrams
-![](diagram.jpg)
+![schematics on protoboard](assets/diagram.jpg)
 
 
 ## Demo
-![](demo.gif)
+![working prototype](assets/demo.gif)
