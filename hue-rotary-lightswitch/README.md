@@ -43,6 +43,9 @@ wire-free to operate felt aesthetically correct for a light switch.
 
 ## Diagrams
 
+## Libraries
+
+## Programming
 
 ## Demo
 ![Color controlled by Rotary](assets/demo-color.gif)

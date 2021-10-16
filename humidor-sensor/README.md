@@ -4,8 +4,8 @@ interface. Provides current reading as well as rolling averages over a period
 of time. This project also experiments with graphical animations, and includes
 an LED for simple red/yellow/green temperature/humidity levels.
 
-![humidor](assets/humidor.jpeg)
-![averages](assets/averages.jpeg)
+![humidor](assets/humidor.jpg)
+![averages](assets/averages.jpg)
 
 ## Components
 - Adafruit Feather M0 Basic Proto
@@ -36,10 +36,10 @@ Atmega328P chip (with its infamously compact 32k Flash, 2k SRAM).
 
 The OLED interface included three buttons, which I programmed to:
 
-A. Display the current temperature and humidity.
-B. Display min, mean, max temperature and humidity over a rolling period of
+1. Display the current temperature and humidity.
+2. Display min, mean, max temperature and humidity over a rolling period of
    time.
-C. Display a graphical animation.
+3. Display a graphical animation.
 
 Though the animation would not fit on Atmega328P, it does fit quite comfortably
 on other Adafruit M0 (ATSAMD21G18) or M4 (ATSAMD51) boards.
