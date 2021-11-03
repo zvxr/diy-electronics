@@ -88,7 +88,7 @@ And a fifth:
 ```
 # Storing All Values
 data = [5, 7, 3, 9] + [6]
-average = (5+7+3+9+6) / 5 = 5
+average = (5+7+3+9+6) / 5 = 6
 
 # Storing count and lastValue
 count = (4 + 1) = 5
@@ -101,11 +101,9 @@ it does not know the values it has stored, it cannot calculate rolling averages
 turned on). For the nature of this project (averages at a glance), I opted for
 a compression based on count. Basically at some point (1.5 days), the count is
 reduced by a day (to 0.5 days). Calculations then continue to be made as
-normal. This makes new incoming data more influential immediately following
-compression, but where the lastValue (average) is most influenced by the past
-day of data. It is not perfect, but at a glance with a screen that outputs 0.01
+normal. It is not perfect, but at a glance with a screen that outputs 0.01
 resolution on a sensor that has 0.02 C temperature accuracy and 1.8% relative
 humidity accuracy, it felt perfectly fine for keeping the project simple and
-memory efficient while still delivering meaningful and fairly accurate metrics.
+memory efficient while still delivering meaningful metrics.
 
 ## Demo
