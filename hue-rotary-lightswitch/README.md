@@ -44,6 +44,15 @@ wire-free to operate felt aesthetically correct for a light switch.
 ## Diagrams
 
 ## Libraries
+- adafruit_bus_device
+- adafruit_esp32spi
+- adafruit_hue
+- adafruit_pypixelbuf
+- adafruit_requests *
+- adafruit_rgbled
+- neopixel
+
+* Adafruit Requests must be version 1.6.0 due to [incompatability](https://github.com/adafruit/Adafruit_CircuitPython_Requests/issues/38)
 
 ## Programming
 
