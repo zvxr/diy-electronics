@@ -13,9 +13,9 @@ Provides some feedback with an LED light.
 This project really became an exercise in power/voltage management, having
 different requirements from various components:
 
-Nano Printer [5-9V, 1.5A]
-Feather M0 [3.3V logic, 3-5V, 0.5A]
-NeoPixel [5V logic]
+- Nano Printer [5-9V, 1.5A]
+- Feather M0 [3.3V logic, 3-5V, 0.5A]
+- NeoPixel [5V logic]
 
 Early attempts tried to share 5VDC between the printer and microcontroller.
 This was not enough, causing the printer to stop while the MicroSD card was
