@@ -12,7 +12,7 @@
 
 ## Demo
 
-first prototype:
+prototype:
 
-https://user-images.githubusercontent.com/4237466/155363100-77ea88dc-9d02-4381-933e-f53bc482804c.mov
+https://user-images.githubusercontent.com/4237466/155377208-d0bed72f-017a-4d27-ba3f-73f194304efd.mov
 
