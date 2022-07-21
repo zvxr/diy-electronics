@@ -24,3 +24,7 @@ it simple I used prototyping jumper cables to wire everything up.
 
 prototype:
 
+
+
+https://user-images.githubusercontent.com/4237466/180122013-363f955a-b1ab-49dc-b9da-75e09da2bc9d.mov
+
